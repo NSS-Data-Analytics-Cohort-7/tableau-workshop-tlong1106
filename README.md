@@ -1,3 +1,3 @@
 # tableau-workshop
 
-link: https://public.tableau.com/app/profile/tlong1106/viz/flight_satisfaction/Dashboard1?publish=yes
+link: https://public.tableau.com/app/profile/tlong1106/viz/flight_satisfaction/AirTravelSatisfaction?publish=yes
